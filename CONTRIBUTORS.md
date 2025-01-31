@@ -442,3 +442,4 @@
 - [@cydydev](https://github.com/cydydev)
 - [@mintesin](https://github.com/mintesin)
 - [@turtlemb](https://github.com/turtlemb)
+- [@MarioSuperFui](https://github.com/mariosuperfui)
